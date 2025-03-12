@@ -1,0 +1,7 @@
+what is ord function ?
+automatic garbage collaction ?
+what is python variable  ?
+what is keywords in python ?
+keywaords Uses 
+
+
