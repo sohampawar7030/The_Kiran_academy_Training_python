@@ -1,7 +1,7 @@
 # 2nd Question Find the area of Circle
 
 
-r=15
+r=int(input("Enter the Radius"))
 pie=3.14
 areaOfCircle=pie*r*r
 
