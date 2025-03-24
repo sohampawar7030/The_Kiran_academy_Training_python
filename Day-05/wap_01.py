@@ -1,9 +1,9 @@
 # 1st Question 
 
-# wap to find area of rectangle 
+# wap to find area of rectangle
 
-l = 20 
-w = 30
+l=int(input("Enter the Length"))
+w=int(input("Enter the Width"))
 
 AreaOfRectangle = l*w
 
