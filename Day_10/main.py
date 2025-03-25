@@ -26,3 +26,5 @@ print("using index function :-",str1.index("python"))
 print("Using Partition Function :-",str1.partition("s"))
 
 
+
+
