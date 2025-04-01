@@ -56,7 +56,7 @@ print("Find the index of r : ",str1.index("r"))
 
 #       18. Try finding the index of "z" in "python" using index(), and observe the error.
 str1="python"
-print("finding the index of z :",str1.index("z"))
+# print("finding the index of z :",str1.index("z"))
 #       19. find the last occurrence of "e"(( in "experience".
 str1="experience"
 print("the last occurrence of e :",str1.index("e"))
