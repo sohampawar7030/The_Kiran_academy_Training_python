@@ -2,8 +2,6 @@
 
 # 1. Create an empty list and use append() to add five different numbers to it. Print the final list.
 list1=[]
-
-
 list1.append(10)
 list1.append(20)
 list1.append(30)
@@ -85,9 +83,11 @@ print(list)
 
 # 17. Reverse a list of words and join them to form a sentence words = ["Hello", "world", "Python"].
 words = ["Hello", "world", "Python"]
-print(words)
-print("Reverse list :",words.reverse())
-print(words)
+words.reverse()  # Reverse the list in place
+sentence = " ".join(words)  # Join the words to form a sentence
+print(sentence)
+
+
 # 18. Sort a list of numbers [10, 5, 8, 3, 1] in ascending and then in descending order.
 list1 = [10, 5, 8, 3, 1]
 
