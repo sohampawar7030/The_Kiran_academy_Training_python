@@ -1,0 +1,10 @@
+1.	WAP to create a list of integer value and print it on the screen using for loop
+2.	WAP to create a list of float value and print it on the screen using for loop
+3.	WAP to create a dict of key and  value pair and print it on the screen using for loop
+4.	WAP to create a dict of key and  value pair and print only the keys on the screen using for loop
+5.	WAP to print all the even numbers between 1 to 20
+6.	WAP to print all the odd numbers between 1 to 20
+7.	WAP to print the multiple of 7 between 1 to 100
+8.	WAP to print 100 t0 50 in reverse
+9.	Wap to print even numbers from 20 to 10 in reverse
+10.	WAP to create a list of numbers from 1 to 10.
