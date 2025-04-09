@@ -1,0 +1,23 @@
+git push -u origin main
+
+
+# IQ Question 
+String convert to list
+diff between Higher Level pb vs Lower level Pb 
+alternate Answer 
+slice and remove() function 
+diff between append and remove  
+
+
+
+
+ML Question 
+
+ What is heatmap
+ What is ML lifecycle 
+ What is Data clensing 
+ What is One Hot Encoding 
+ What is Overfitting and Underfitting 
+ How Handelling the Missing Values 
+
+  
