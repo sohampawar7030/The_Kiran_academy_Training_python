@@ -1,0 +1,22 @@
+1. what is function Programming Language ? 
+ -> It is Programming paradigm to bind data in single function 
+
+
+ 2. What is function
+ -> It is block of code 
+    there are two concept in function 
+    1. Function Defination
+    2. Function Calling 
+3. Type of Function 
+    1. Pre defined Function 
+    2. user defined Function 
+    3. lamda function 
+    4. recursion Function 
+
+4. How to Create the function
+-> 
+Syntax :
+            def function Name():
+                code
+                function Name()
+
