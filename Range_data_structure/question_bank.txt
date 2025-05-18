@@ -9,7 +9,7 @@
 9.	Wap to print even numbers from 20 to 10 in reverse
 10.	WAP to create a list of numbers from 1 to 10.
 
-..................................................Practics Questions..............................................
+.................................................Practics Questions........................................................
 
 1. WAP to print numbers from 1 to 10 using a for loop.
 2. WAP to print numbers from 10 to 1 using a for loop.
