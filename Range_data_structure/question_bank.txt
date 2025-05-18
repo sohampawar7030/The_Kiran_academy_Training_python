@@ -8,3 +8,56 @@
 8.	WAP to print 100 t0 50 in reverse
 9.	Wap to print even numbers from 20 to 10 in reverse
 10.	WAP to create a list of numbers from 1 to 10.
+
+.................................................Practics Questions........................................................
+
+1. WAP to print numbers from 1 to 10 using a for loop.
+2. WAP to print numbers from 10 to 1 using a for loop.
+3. WAP to print all even numbers from 1 to 50.
+4. WAP to print all odd numbers from 1 to 50.
+5. WAP to print numbers from 1 to 100 that are divisible by 5.
+6. WAP to print numbers from 1 to 100 that are divisible by both 3 and 5.
+7. WAP to print all prime numbers from 1 to 50.
+8. WAP to print the table of 7.
+9. WAP to print the square of numbers from 1 to 10.
+10. WAP to print numbers from 100 to 50 in reverse.
+11. WAP to create a list of 5 integers and print each using a for loop.
+12. WAP to create a list of 5 floats and print each using a for loop.
+13. WAP to create a list of 10 numbers and print only even numbers.
+14. WAP to create a list and print only the odd numbers using a for loop.
+15. WAP to find the sum of elements in a list.
+16. WAP to find the maximum number in a list.
+17. WAP to find the minimum number in a list.
+18. WAP to count even and odd numbers in a list.
+19. WAP to separate even and odd numbers from a list.
+20. WAP to print the index and value of each element in a list using a loop.
+21. WAP to create a dictionary of 5 items and print all key-value pairs.
+22. WAP to print only the keys from a dictionary.
+23. WAP to print only the values from a dictionary.
+24. WAP to check if a key exists in a dictionary.
+25. WAP to find the length of a dictionary.
+26. WAP to update a value for a specific key in a dictionary.
+27. WAP to remove a key-value pair from a dictionary.
+28. WAP to add a new key-value pair to an existing dictionary.
+29. WAP to iterate through a nested dictionary.
+30. WAP to create a dictionary from two lists using a loop.
+31. WAP to count the number of digits in a number.
+32. WAP to reverse a number using a loop.
+33. WAP to print the factorial of a number using a for loop.
+34. WAP to check if a number is a palindrome.
+35. WAP to calculate the sum of digits of a number.
+36. WAP to find the product of digits in a number.
+37. WAP to print the Fibonacci series up to n terms.
+38. WAP to print all numbers between 1 and 100 that are divisible by 3 or 7.
+39. WAP to print all numbers divisible by 11 but not by 2 between 1 and 100.
+40. WAP to print ASCII values of characters from A to Z using a for loop.
+41. WAP to print list elements in reverse order using a loop.
+42. WAP to calculate the average of numbers in a list.
+43. WAP to remove duplicate elements from a list.
+44. WAP to merge two lists into a single list.
+45. WAP to sort a list in ascending order using a loop.
+46. WAP to find the second largest number in a list.
+47. WAP to find the second smallest number in a list.
+48. WAP to rotate a list to the right by 1 position.
+49. WAP to count occurrences of each element in a list using a dictionary.
+50. WAP to create a list of 10 random numbers between 1 to 100.
