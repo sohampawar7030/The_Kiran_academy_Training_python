@@ -94,15 +94,5 @@ print(str4[::2])
 # Extract and reverse the substring from index 5 to 20.
 # Get the substring from index 7 to the end, but in reverse order.
 # Get every second character from str5 starting from index 3.
-# Create a new string by moving the last 4 characters of str5 to the beginning.
-
-
-
-
-
-
-
-
-
-
-
+# Create a new string by moving the last 4 characters of str5 to the beginning
+#
