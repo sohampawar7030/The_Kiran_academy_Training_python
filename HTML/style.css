@@ -1,0 +1,59 @@
+/* Form container styling */
+form {
+    max-width: 500px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Label styling */
+label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    color: #333;
+}
+
+/* Input field styling */
+input[type="text"] {
+    width: 100%;
+    padding: 0.75rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 1rem;
+    transition: border-color 0.3s ease;
+}
+
+input[type="text"]:focus {
+    outline: none;
+    border-color: #4a90e2;
+    box-shadow: 0 0 0 2px rgba(74, 144, 226, 0.2);
+}
+
+/* Hover effect */
+input[type="text"]:hover {
+    border-color: #4a90e2;
+}
+
+/* Button styling */
+button {
+    border-radius: 10px;
+    padding: 4px;
+    border: solid;
+    display: block;
+    margin: 0 auto;  /* Centers the button horizontally */
+    cursor: pointer;
+    background-color: #4a90e2;
+    color: white;
+    border-color: #4a90e2;
+    transition: background-color 0.3s ease;
+    text-align: center;  /* Centers the text inside the button */
+    width: 100px;  /* Gives the button a fixed width for better centering */
+}
+
+button:hover {
+    background-color: #357abd;
+} 

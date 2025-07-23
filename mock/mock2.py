@@ -1,6 +1,5 @@
-name=input("Enter the word: ")
-
+name = input("Enter the Name")
 if name == name[::-1]:
     print("this is palindrome")
-else :
+else:
     print("this is not palindrome")
