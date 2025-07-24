@@ -12,7 +12,7 @@ try:
 
     mycursor = myconn.cursor()
 
- 
+#  "done"
     sql = """
     INSERT INTO Employeess (id, name, salary, department, location)
     VALUES (%s, %s, %s, %s, %s)
